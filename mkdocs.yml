@@ -1,0 +1,8 @@
+site_name: "poco-doco2"
+site_description: "demo of creating repo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
